@@ -1,4 +1,4 @@
-var db = require('../conf ig');
+var db = require('../config');
 var Link = require('./link.js')
 
 var Click = db.Model.extend({
